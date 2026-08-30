@@ -1,2 +1,2 @@
 # django_learning
-this is my learning django journy
+this is my django learning journy
